@@ -74,6 +74,7 @@ fun TaskItem(
             }
         }
         Divider(color = Color.Gray, thickness = 1.dp)
+
     }
 }
 
