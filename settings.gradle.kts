@@ -19,6 +19,9 @@ dependencyResolutionManagement {
     }
 }
 
+// Added a comment for testing changes
 rootProject.name = "coba"
+
+// Added a new module for testing
 include(":app")
- 
+include(":newModule") // New module included
