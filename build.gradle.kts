@@ -5,4 +5,6 @@ plugins {
     alias(libs.plugins.kotlin.compose) apply false
     id("com.google.devtools.ksp") version "2.0.0-1.0.24" apply false
     alias(libs.plugins.google.gms.google.services) apply false
+    // Added example plugin for commit
+    id("com.example.new.plugin") version "1.0.0" apply false
 }
