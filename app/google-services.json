@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762172509533",
+    "project_id": "coba-cd7db",
+    "storage_bucket": "coba-cd7db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762172509533:android:78ff40577cbd2244dcecb4",
+        "android_client_info": {
+          "package_name": "com.example.coba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3PSqmjdjAA3hu4EQHnRV2cEMHpFRDo74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
