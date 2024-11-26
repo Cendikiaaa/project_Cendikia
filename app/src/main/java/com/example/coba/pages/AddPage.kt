@@ -88,7 +88,7 @@ fun AddPage(
 
                 Spacer(modifier = Modifier.height(16.dp))
 
-                // Tampilkan error jika nama task kosong
+                // Tampilkan error jika nama task kosong sds
                 if (showError) {
                     Text(
                         text = "Nama task tidak boleh kosong!",
