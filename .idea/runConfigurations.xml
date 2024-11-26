@@ -11,6 +11,7 @@
         <option value="com.intellij.execution.junit.testDiscovery.JUnitTestDiscoveryConfigurationProducer" />
         <option value="org.jetbrains.kotlin.idea.junit.KotlinJUnitRunConfigurationProducer" />
         <option value="org.jetbrains.kotlin.idea.junit.KotlinPatternConfigurationProducer" />
+        <option value="com.intellij.execution.junit.NewTestConfigurationProducer" /> <!-- Added new producer -->
       </set>
     </option>
   </component>
